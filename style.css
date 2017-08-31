@@ -1,0 +1,32 @@
+header ul {
+    list-style-type: none;
+    background-color: gray; 
+    overflow: hidden; 
+    font-size: 30;
+}
+header li {
+    float: left; 
+}
+header li a {
+  padding: 14px; 
+  text-decoration: none; 
+  color: white;
+}
+header li a:hover {
+  background-color: green;
+}
+footer {
+  background-color: gray;
+  color: white;
+}
+body {
+  margin: 0;
+  font-size: 20;
+  font-family: sans-serif;
+  background-color: pink;
+}
+
+#body {
+  margin: 10px;
+}
+
